@@ -15,5 +15,5 @@ The Number of tins calulator program was developed to calculate how many tins ar
 | 34           | 45          | 65         | 2                       | 765 metres (squared)     |
 
 
-Feel free to use your own test data to have a go at calculating the supply voltage.
+Feel free to use your own test data to have a go at calculating the result.
 
